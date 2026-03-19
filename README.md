@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi curious person👋
 
 - 🔭 I’m currently working on the PRODEPUPTx project
 - 🌱 I’m currently learning spring boot and angular
